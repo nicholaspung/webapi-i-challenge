@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/LambdaSchool/webapi-i-challenge#readme",
   "devDependencies": {
+    "express": "^4.17.1",
     "nodemon": "^1.19.1"
   },
   "dependencies": {
